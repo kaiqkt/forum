@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "100",
+    "name": "Kaique Gomes",
+    "username": "kaiquezed",
+    "email": "kaique@gomes.com",
+    "about": "java enginer",
+    "image": null,
+    "following": [],
+    "followers": [],
+    "createdAt": "2019-01-21T05:47:08.644",
+    "updatedAt": "2019-01-21T05:47:08.644",
+  },
+  {
+    "_id": "200",
+    "name": "Kaike Gomes",
+    "username": "kaiquezed2",
+    "email": "kaique1@gomes.com",
+    "about": "java enginer",
+    "image": null,
+    "following": [],
+    "followers": [],
+    "createdAt": "2019-01-21T05:47:08.644",
+    "updatedAt": "2019-01-21T05:47:08.644",
+  },
+  {
+    "_id": "300",
+    "name": "Kayky Gomes",
+    "username": "kaiquezed3",
+    "email": "kaique2@gomes.com",
+    "about": "java enginer",
+    "image": null,
+    "following": [],
+    "followers": [],
+    "createdAt": "2019-01-21T05:47:08.644",
+    "updatedAt": "2019-01-21T05:47:08.644",
+  }
+]

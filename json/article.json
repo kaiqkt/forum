@@ -1,0 +1,524 @@
+[{
+  "_id": "01G31TZZCEBDHQHDAG5CWGVK9S",
+  "profileId": "100",
+  "username": "kaiquezed",
+  "title": "2006",
+  "body": "AAAA",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652377732494"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652550532494"
+    }
+  },
+  "comments": [],
+  "likes": [
+    "100",
+    "200"
+  ],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G31V0406SY5ZXYGQ8F32RY1N",
+  "profileId": "100",
+  "username": "kaiquezed",
+  "slug": "2006-01G31V04068H881EG3JVT6597F",
+  "title": "2006",
+  "body": "AAAA",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651427337222"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652550537222"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G31V09KYMQH6DX8MDC6ZXYTZ",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "title": "2006",
+  "body": "AAAA",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652550542974"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652550542974"
+    }
+  },
+  "comments": [],
+  "likes": [
+    "100"
+  ],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G31V0AXC38JK0BDV8XMZ45HA",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "slug": "2006-01G31V0AXCQ20D6X7N3R1H066N",
+  "title": "2006",
+  "body": "AAAA",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652550544300"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652550544300"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G31V0GYF38ZMM8JQ73YBHWGG",
+  "profileId": "300",
+  "username": "kaiquezed3",
+  "slug": "2006-01G31V0GYFPJADKH8C5962S27C",
+  "title": "2006",
+  "body": "AAAA",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1643737750479"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652550550479"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G31V0HM54B0WZ679C85B2ESQ",
+  "profileId": "300",
+  "username": "kaiquezed3",
+  "slug": "2006-01G31V0HM5ZHYMKNRSPDWF03D8",
+  "title": "2006",
+  "body": "AAAA",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652377751173"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652550551173"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G31V0J8NHZ7908858S8N2Z00",
+  "profileId": "300",
+  "username": "kaiquezed3",
+  "slug": "2006-01G31V0J8NK7VBYYHEF423D57W",
+  "title": "2006",
+  "body": "AAAA",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654019351829"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652550551829"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G3EK4JR33ENJR483FYK0FRVK",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "title": "2005",
+  "body": "AAAB",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652978502403"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652978502403"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G3EMMT8XXA5E5DW7RRHX0YN8",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "title": "2005",
+  "body": "AAAB",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652980082973"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652980082973"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G3ENQ4HYZRMNSRZ3DXXNDJ1K",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "title": "2005",
+  "body": "AAAB",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652981207614"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652981207614"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G3ENTCEQGC6YDVFSRAXSW26G",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "title": "2005",
+  "body": "AAAB",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652981314007"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652981314007"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G3EP7H0J1DSEKBNSCCTF8QFA",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "title": "2005",
+  "body": "AAAB",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652981744658"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652981744659"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G3EPBG49Y65BJ9557MXRQ1T6",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "title": "2005",
+  "body": "AAAB",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652981874825"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652981874826"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G3HHH3RVVS8XW6ZPC8RTHW6Y",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "title": "2005",
+  "body": "AAAB",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653077479195"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653077479195"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G3HV56TE0K186CQ9Q8QX6X3H",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "title": "2005",
+  "body": "AAAB",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653087574862"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653087574862"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G3HV5PEX1PNFMSEP1ETVHCRD",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "title": "2005",
+  "body": "AAAB",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653087590877"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653087590877"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G3HVA60FJGEZKA0QEAMSH6DZ",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "title": "2005",
+  "body": "AAAB",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653087737871"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653087737871"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G3HVFVPRWQJT9VFCT2G2HXGW",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "title": "2005",
+  "body": "AAAB",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653087923928"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653087923928"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+},{
+  "_id": "01G3HVPD9G8ZD85CK2HWXXM279",
+  "profileId": "200",
+  "username": "kaiquezed2",
+  "title": "2005",
+  "body": "AAAB",
+  "tags": [
+    {
+      "_id": {
+        "$oid": "627ed9600087afeaf5a08653"
+      },
+      "name": "Java"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653088138544"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653088138544"
+    }
+  },
+  "comments": [],
+  "likes": [],
+  "_class": "social.media.service.domain.entities.Article"
+}]

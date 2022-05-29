@@ -1,0 +1,16 @@
+jwt:
+    secret: my-secret
+    expiration: 7200000
+
+spring:
+    main:
+        allow-circular-references: true
+    rabbitmq:
+        host: 127.0.0.1
+        port: 5672
+        username: myuser
+        password: mypassword
+
+queues:
+    notification: simple-notify
+
